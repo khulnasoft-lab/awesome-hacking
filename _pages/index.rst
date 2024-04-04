@@ -10,7 +10,7 @@ This is not only a curated list, it is also a complete and updated toolset you c
 
 You can download all the tools with the following command::
 
-    git clone --recursive https://github.com/jekil/awesome-hacking.git
+    git clone --recursive https://github.com/khulnasoft-lab/awesome-hacking.git
 
 To update it run the following command::
 
@@ -18,7 +18,7 @@ To update it run the following command::
 
 Every kind of **contribution** is really appreciated! Follow the `contribute <https://awesomehacking.org/contribute.html>`_.
 
-*If you enjoy this work, please keep it alive contributing or just sharing it!* - `@jekil <https://twitter.com/jekil>`_
+*If you enjoy this work, please keep it alive contributing or just sharing it!* - `@khulnasoft-lab <https://twitter.com/khulnasoft-lab>`_
 
 .. contents:: Table of Contents
    :depth: 2
